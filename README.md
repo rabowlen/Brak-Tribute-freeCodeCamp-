@@ -11,6 +11,6 @@ CSS
 
 JavaScript
  
- ###To Run:
+ ## To Run:
  
  Follow the link above and the site will pull up in your browser. Use the change view tab to look at various aspects of the project. 
